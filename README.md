@@ -12,6 +12,10 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kazuhiro-Matsui/Cardiovascular-Disease/blob/main/Cardiovascular_Disease.ipynb)
 
+### ノートブックのダウンロード
+以下からノートブックファイルをダウンロードすることが可能です。
+
+[📥 Cardiovascular_Disease.ipynb をダウンロード](https://github.com/Kazuhiro-Matsui/Cardiovascular-Disease/raw/main/Cardiovascular_Disease.ipynb)
 
 
 ---
