@@ -7,7 +7,9 @@
 > 95% 信頼区間によるフェイルセーフ判定モードを実装し、産業医・健診業務の
 > **一次スクリーニング AI** としての運用フローを設計した。
 
-![Spline Effects](docs/spline_effects.png)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kazuhiro-Matsui/Cardiovascular-Disease/blob/main/Cardiovascular_Disease.ipynb)
+
+
 
 ---
 
