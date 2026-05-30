@@ -7,6 +7,8 @@
 > 95% 信頼区間によるフェイルセーフ判定モードを実装し、産業医・健診業務の
 > **一次スクリーニング AI** としての運用フローを設計した。
 
+**※GitHub側のレンダラー障害により直接表示できない場合があります。
+その場合は恐れ入りますが、下記↓の『Open in Colab』バッジからご覧ください**
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kazuhiro-Matsui/Cardiovascular-Disease/blob/main/Cardiovascular_Disease.ipynb)
 
 
