@@ -9,6 +9,7 @@
 
 **※GitHub側のレンダラー障害により直接表示できない場合があります。
 その場合は恐れ入りますが、下記↓の『Open in Colab』バッジからご覧ください**
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kazuhiro-Matsui/Cardiovascular-Disease/blob/main/Cardiovascular_Disease.ipynb)
 
 
